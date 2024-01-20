@@ -1,4 +1,4 @@
-## Writing Console Input to File
+gi ## Writing Console Input to File
 
 In the `index.js` file in the `02-write-file` directory, develop a script that outputs a greeting to the console, waits for text input, and writes the entered text to a file.
 
