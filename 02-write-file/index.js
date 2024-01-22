@@ -20,4 +20,5 @@ stdin.on('data', (data) => {
 
 process.on('SIGINT', () => {
   stdout.write('Entering data is finished! Thanks!\n');
+  exit();
 });
